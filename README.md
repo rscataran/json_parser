@@ -14,7 +14,7 @@ Installation
 ------------
 
 1. You need to download [jsonpath](https://jsonpath.googlecode.com/svn/trunk/src/php/jsonpath.php) and put in the `sites/all/libraries/jsonpath` folder.
-2. Using drush, enable `news_importer` and `feeds_ui` modules to automatically resolve dependencies.
+2. Using drush, enable `news_importer` , `feeds`, `feeds_ui` modules to automatically resolve dependencies.
 3. Clear all drupal cache.
 
 Usage
